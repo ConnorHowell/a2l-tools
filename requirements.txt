@@ -1,0 +1,2 @@
+wxpython
+pya2ldb
